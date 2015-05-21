@@ -1,0 +1,5 @@
+.vagrant
+*.tgz
+.DS_Store
+kibana-4.0.2-darwin-x64.tar.gz
+kibana-4.0.2-darwin-x64
