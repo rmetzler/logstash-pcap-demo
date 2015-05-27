@@ -40,3 +40,7 @@ To start injesting you can use a command similar to:
 ### Kibana
 
 While your data is injesting, you can download [Kibana](https://www.elastic.co/products/kibana) and start creating your dashboards.
+
+## Issues
+
+If you have issues, or questions, regarding this demo. Feel free to open an issue to this very same repository.
